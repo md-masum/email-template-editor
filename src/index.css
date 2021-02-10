@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.blockbuilder-branding {
+  display: none !important;
+}
+.cdyNRy .blockbuilder-branding {
+  display: none !important;
+}
